@@ -1,0 +1,2 @@
+# IT007_lap6
+LRU, OPT, FIFO
